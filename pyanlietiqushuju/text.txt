@@ -1,0 +1,2 @@
+1|name1|agg1|add1|phone1|card1|
+2|name2|agg2|add2|phone2|card2|
